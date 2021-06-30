@@ -1,0 +1,9 @@
+{
+	"name": "TestAGIT",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "008ea770-3ede-4924-a037-736520a6ef2d",
+		"tenantId": "189de737-c93a-4f5a-8b68-6f4ca9941912"
+	}
+}
