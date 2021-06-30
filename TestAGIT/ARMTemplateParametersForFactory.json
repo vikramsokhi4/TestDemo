@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "TestAGIT"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
